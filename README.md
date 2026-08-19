@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**Eng-Mo7ammed/Eng-Mo7ammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student at Al-Aqsa University, currently focused on building my skills in Front-End Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 🎯 Goals
+
+- Build real-world web projects
+- Improve my JavaScript and problem-solving skills
+- Become a professional Front-End Developer
+
+### 📫 Connect With Me
+
+- LinkedIn: [Mohammed Mamdouh](www.linkedin.com/in/mohammed-mamdouh-dev)
+- Instagram: [Instagram](https://www.instagram.com/20_mo7aamed/)
